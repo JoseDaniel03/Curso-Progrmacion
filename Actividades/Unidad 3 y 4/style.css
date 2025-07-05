@@ -4,7 +4,7 @@ body{
     margin: -0%;
     display: grid;
     grid-column: 2;
-    color: aliceblue;
+    color: rgb(214, 220, 224);
 
 }
 h1, h2, h3 , h4, h5{
@@ -12,7 +12,7 @@ h1, h2, h3 , h4, h5{
     padding: 2px;
 }
 #Presentacion{
-    background-color: yellowgreen;
+    background-color: rgb(85, 104, 49);
     padding: 0px;
     margin: 0px;
     height: max-content;
@@ -21,11 +21,11 @@ h1, h2, h3 , h4, h5{
     align-items: center;
     
 }
-#Informacion{
-    background-color: teal;
-    height: max-content;
-}
-
 #Presentacion img{
     padding: 2px;
 }
+#Informacion{
+    background-color: rgb(27, 54, 54);
+    height: max-content;
+}
+
