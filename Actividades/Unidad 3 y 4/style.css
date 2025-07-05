@@ -1,0 +1,22 @@
+body{
+    background-color: transparent;
+    padding:  -0%;
+    margin: -0%;
+    display: grid;
+    grid-column: 2;
+    color: aliceblue;
+
+}
+h1, h2, h3 , h4, h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Presentacion{
+    background-color: yellowgreen;
+    padding: 0px;
+    margin: 0px;
+    height:100px;
+}
+#Informacion{
+    background-color: teal;
+    height: max-content;
+}
